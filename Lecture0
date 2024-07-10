@@ -1,0 +1,12 @@
+Git
+
+Version control system:
+
+Workflow
+
+Initialization -> git init
+
+Modification/ adding -> git add filename
+
+
+modification |  staging | commit
