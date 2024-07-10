@@ -1,0 +1,21 @@
+Git
+
+How and Why
+
+client and developer
+
+Expectation     Codebase and deploy it        Version 1
+Create a site                Version 2
+                             Version 3
+
+
+Version control system:
+
+Workflow
+
+Initialization -> git init
+
+Modification/ adding -> git add filename
+
+
+modification |  staging | commit
